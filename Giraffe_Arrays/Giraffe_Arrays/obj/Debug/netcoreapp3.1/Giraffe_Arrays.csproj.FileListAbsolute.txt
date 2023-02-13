@@ -1,0 +1,13 @@
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.exe
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.deps.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.runtimeconfig.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.runtimeconfig.dev.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\bin\Debug\netcoreapp3.1\Giraffe_Arrays.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.csprojAssemblyReference.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.AssemblyInfoInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.AssemblyInfo.cs
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Arrays\Giraffe_Arrays\obj\Debug\netcoreapp3.1\Giraffe_Arrays.genruntimeconfig.cache

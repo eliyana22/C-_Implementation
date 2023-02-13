@@ -1,0 +1,13 @@
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.exe
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.deps.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.runtimeconfig.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.runtimeconfig.dev.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\bin\Debug\netcoreapp3.1\Giraffe_Calculator.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.csprojAssemblyReference.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.AssemblyInfoInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.AssemblyInfo.cs
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\Giraffe\Giraffe_Calculator\Giraffe_Calculator\obj\Debug\netcoreapp3.1\Giraffe_Calculator.genruntimeconfig.cache
