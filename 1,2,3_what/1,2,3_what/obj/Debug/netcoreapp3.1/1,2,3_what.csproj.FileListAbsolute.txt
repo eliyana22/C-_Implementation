@@ -1,0 +1,13 @@
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.exe
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.deps.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.runtimeconfig.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.runtimeconfig.dev.json
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\bin\Debug\netcoreapp3.1\1,2,3_what.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.csprojAssemblyReference.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.AssemblyInfoInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.AssemblyInfo.cs
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.csproj.CoreCompileInputs.cache
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.dll
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.pdb
+C:\Users\RHILLAN07\Desktop\ALIANA'S FOLDER\PROGRAMMING\C#\CodeChum\1,2,3_what\1,2,3_what\1,2,3_what\obj\Debug\netcoreapp3.1\1,2,3_what.genruntimeconfig.cache
